@@ -48,7 +48,7 @@
 #### Step 1 - install
 
 ```javascript
-	npm install react-native-picker --save
+	npm install ldq-react-native-picker --save
 ```
 
 #### Step 2 - link
@@ -60,7 +60,7 @@
 #### Step 3 - import and use in project
 
 ```javascript
-import Picker from "react-native-picker";
+import Picker from "ldq-react-native-picker";
 let data = [];
 for (var i = 0; i < 100; i++) {
   data.push(i);
